@@ -148,6 +148,10 @@ footer{
     align-items: center;
 }
 
+.foot-row-1{
+    
+}
+
 .foot-row-2{
     display: flex;
     justify-content: space-between;
